@@ -8,7 +8,7 @@ package leetcodesolve.leetcode2;
  * @Version 1.0
  **/
 public class ListNode {
-    int val;
+    public int val;
     public ListNode next;
     public ListNode(int x) {
         val = x;
